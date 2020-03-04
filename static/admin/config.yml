@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: W3Layouts/delog
+  repo: muzammilahamed123/muzammil
 media_folder: static/assets
 public_folder: /assets
 collections:
