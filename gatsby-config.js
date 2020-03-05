@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: `Muzammil - UI/UX Designer`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://hgn.netlify.com/`,
+    siteUrl: `https://muzammilwebsite.netlify.com/`,
     home: {
       title: `Hi! My name is Muzammil`,
       description: `I am Creative Web Designer and Front-end Developer having 3 years of Experience. I like to make cool and Creative Designs. My design is always full of refreshing ideas. Feel free to take a look around my portfolio`,
