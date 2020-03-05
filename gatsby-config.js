@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Muzammil`,
+    title: `Muzammil - UI/UX Designer`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://hgn.netlify.com/`,
     home: {
