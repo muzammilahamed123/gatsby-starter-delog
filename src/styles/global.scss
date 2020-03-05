@@ -71,6 +71,7 @@ a {
   font-size: 36px;
   font-weight: 900;
   margin-bottom: 0.5rem;
+  color: #313342;
 }
 .button {
   padding: 18px 27px;
@@ -90,6 +91,7 @@ a {
     color: $primary-text-color;
     &:hover {
       background-color: #0a8ea0;
+      border-color: #0a8ea0;
       color: #fff;
       text-decoration: none;
     }
