@@ -41,6 +41,27 @@ const ContactPage = ({
               <input type="submit" className="button -primary" style={{marginRight: 0}} />
             </div>
           </form>
+          <form action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
+              <div>
+                  <label>Name</label>
+                  <input type="text" name="w3lName" required=""/>
+              </div>
+              <div>
+                  <label>Email</label>
+                  <input type="email" name="w3lSender" />
+              </div>
+              <div>
+                  <label>Subject</label>
+                  <input type="text" name="w3lSubject" />
+              </div>
+              <div>
+                  <label>Message</label>
+                  <textarea name="w3lMessage"></textarea>
+              </div>
+              <div>
+                  <input type="submit" />
+              </div>
+          </form>
         </div>
       </div>
     </Layout>
