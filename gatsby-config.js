@@ -15,7 +15,7 @@ module.exports = {
       description: `I am Creative Web Designer and Front-end Developer having 3 years of Experience. I like to make cool and Creative Designs. My design is always full of refreshing ideas. Feel free to take a look around my portfolio`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
-    w3l_dom_key: `5e6098e9def99CF_Domain_verify` 
+    w3l_dom_key: `5e60aa8759a07CF_Domain_verify` 
   },
   plugins: [
     {
